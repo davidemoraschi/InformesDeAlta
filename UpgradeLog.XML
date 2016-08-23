@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="InformesDeAlta">
+</Property><Property Name="Solution File" Value="I:\Visual Studio 2008\Projects\InformesDeAlta\InformesDeAlta.sln">
+</Property><Property Name="User Options File" Value="I:\Visual Studio 2008\Projects\InformesDeAlta\InformesDeAlta.suo">
+</Property><Property Name="Date" Value="lunes, 07 de junio de 2010">
+</Property><Property Name="Time" Value="8:36">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="InformesDeAlta.sln" Description="File successfully backed up as I:\Visual Studio 2008\Projects\InformesDeAlta\Backup\InformesDeAlta.sln">
+</Event><Event ErrorLevel="0" Project="" Source="InformesDeAlta.suo" Description="File successfully backed up as I:\Visual Studio 2008\Projects\InformesDeAlta\Backup\InformesDeAlta.suo">
+</Event><Event ErrorLevel="0" Project="InformesDeAlta" Source="InformesDeAlta\InformesDeAlta.csproj" Description="Project file successfully backed up as I:\Visual Studio 2008\Projects\InformesDeAlta\Backup\InformesDeAlta\InformesDeAlta.csproj">
+</Event><Event ErrorLevel="0" Project="InformesDeAlta" Source="InformesDeAlta\InformesDeAlta.csproj.user" Description="Project user file successfully backed up as I:\Visual Studio 2008\Projects\InformesDeAlta\Backup\InformesDeAlta\InformesDeAlta.csproj.user">
+</Event><Event ErrorLevel="0" Project="InformesDeAlta" Source="InformesDeAlta\InformesDeAlta.cs" Description="File successfully backed up as I:\Visual Studio 2008\Projects\InformesDeAlta\Backup\InformesDeAlta\InformesDeAlta.cs">
+</Event><Event ErrorLevel="0" Project="InformesDeAlta" Source="InformesDeAlta\InformesDeAlta.Designer.cs" Description="File successfully backed up as I:\Visual Studio 2008\Projects\InformesDeAlta\Backup\InformesDeAlta\InformesDeAlta.Designer.cs">
+</Event><Event ErrorLevel="0" Project="InformesDeAlta" Source="InformesDeAlta\Program.cs" Description="File successfully backed up as I:\Visual Studio 2008\Projects\InformesDeAlta\Backup\InformesDeAlta\Program.cs">
+</Event><Event ErrorLevel="0" Project="InformesDeAlta" Source="InformesDeAlta\Properties\AssemblyInfo.cs" Description="File successfully backed up as I:\Visual Studio 2008\Projects\InformesDeAlta\Backup\InformesDeAlta\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="InformesDeAlta" Source="InformesDeAlta\Properties\Resources.Designer.cs" Description="File successfully backed up as I:\Visual Studio 2008\Projects\InformesDeAlta\Backup\InformesDeAlta\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="InformesDeAlta" Source="InformesDeAlta\Properties\Settings.Designer.cs" Description="File successfully backed up as I:\Visual Studio 2008\Projects\InformesDeAlta\Backup\InformesDeAlta\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="InformesDeAlta" Source="InformesDeAlta\Properties\Settings.settings" Description="File successfully backed up as I:\Visual Studio 2008\Projects\InformesDeAlta\Backup\InformesDeAlta\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="InformesDeAlta" Source="InformesDeAlta\InformesDeAlta.resx" Description="File successfully backed up as I:\Visual Studio 2008\Projects\InformesDeAlta\Backup\InformesDeAlta\InformesDeAlta.resx">
+</Event><Event ErrorLevel="0" Project="InformesDeAlta" Source="InformesDeAlta\Properties\Resources.resx" Description="File successfully backed up as I:\Visual Studio 2008\Projects\InformesDeAlta\Backup\InformesDeAlta\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="InformesDeAlta" Source="InformesDeAlta\InformesDeAlta.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="InformesDeAlta" Source="InformesDeAlta\InformesDeAlta.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="InformesDeAlta.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="InformesDeAlta.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="InformesDeAlta" Source="InformesDeAlta\InformesDeAlta.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

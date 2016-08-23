@@ -1,0 +1,10 @@
+I:\Visual Studio 2008\Projects\InformesDeAlta\InformesDeAlta\bin\Debug\InformesDeAlta.exe
+I:\Visual Studio 2008\Projects\InformesDeAlta\InformesDeAlta\bin\Debug\InformesDeAlta.pdb
+I:\Visual Studio 2008\Projects\InformesDeAlta\InformesDeAlta\obj\Debug\ResolveAssemblyReference.cache
+I:\Visual Studio 2008\Projects\InformesDeAlta\InformesDeAlta\obj\Debug\InformesDeAlta.InformesDeAlta.resources
+I:\Visual Studio 2008\Projects\InformesDeAlta\InformesDeAlta\obj\Debug\InformesDeAlta.Properties.Resources.resources
+I:\Visual Studio 2008\Projects\InformesDeAlta\InformesDeAlta\obj\Debug\InformesDeAlta.csproj.GenerateResource.Cache
+I:\Visual Studio 2008\Projects\InformesDeAlta\InformesDeAlta\obj\Debug\InformesDeAlta.exe
+I:\Visual Studio 2008\Projects\InformesDeAlta\InformesDeAlta\obj\Debug\InformesDeAlta.pdb
+I:\Visual Studio 2008\Projects\InformesDeAlta\InformesDeAlta\obj\Debug\ResGen.read.1.tlog
+I:\Visual Studio 2008\Projects\InformesDeAlta\InformesDeAlta\obj\Debug\ResGen.write.1.tlog
